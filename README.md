@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Liniker Brito
+# 👨🏻‍💻 Liniker Brito
 
 **`Desenvolvedor Front-end`**
 
