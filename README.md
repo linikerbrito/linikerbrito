@@ -11,9 +11,10 @@ Trabalho principalmente com Vue.js (2 e 3), Nuxt.js, React, TypeScript, JavaScri
 <p align="left">
     <a href="https://www.linkedin.com/in/liniker-brito/">
         <img 
-            alt="linkedin" 
+            alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            width="30px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
         />
     </a>
 </p>
