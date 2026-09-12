@@ -8,6 +8,16 @@ Atualmente atuo como Desenvolvedor Front-end, construindo e mantendo aplicaçõe
 
 Trabalho principalmente com Vue.js (2 e 3), Nuxt.js, React, TypeScript, JavaScript, Tailwind CSS e Quasar, além de ter experiência com Vuetify, Pinia, Vuex, APIs REST, Docker, Azure DevOps e GitHub Copilot. Atualmente estou me aprofundando em Angular.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/liniker-brito/">
+        <img 
+            alt="linkedin" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
